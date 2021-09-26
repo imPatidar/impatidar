@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on Emerging Technologies and Services.
 - 🌱 I’m currently learning Hybrid Cloud Services.
 - 👯 I’m looking to collaborate on challenging projects.
-- 🤔 I’m looking for help with Springboot.
 - 💬 Ask me about errors.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/impatidar), [Twitter](https://twitter.com/PankajMPatidar1) .
 - 😄 Pronouns: He/His
