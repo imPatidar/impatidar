@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on Emerging Technologies and Services.
+- 🔭 I’m currently working on Emerging Technologies and Services(Next.js, Svelte).
 - 🌱 I’m currently learning Hybrid Cloud Services.
 - 👯 I’m looking to collaborate on challenging projects.
 - 💬 Ask me about errors.
