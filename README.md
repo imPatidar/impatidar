@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Emerging Technologies and Services(**Next.js, Tailwind.css, Creating Node Packages,
   Svelte**).
 
-- 🌱 I’m currently learning **Docker,Typescript, GrapQL as well as Cassandra.**
+- 🌱 I’m currently learning **Docker, Typescript, GrapQL as well as Cassandra.**
 
 - 💬 Ask me about **ERRORS**.
 
