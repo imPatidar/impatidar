@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pankajmpatidar1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="impatidar" height="30" width="40" /></a>
+<a href="https://twitter.com/impatidar1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="impatidar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/impatidar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="impatidar" height="30" width="40" /></a>
 <a href="https://codepen.io/pankajp27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="impatidar" height="30" width="40" /></a>
 <a href="https://dev.to/impatidar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="impatidar" height="30" width="40" /></a>
