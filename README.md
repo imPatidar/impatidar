@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Patidar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-- 🔭 I’m currently working on Emerging Technologies and Services(**Next.js, Tailwind.css, Creating Node Packages,
-  Svelte**).
+- 🔭 I’m currently working on Emerging Technologies and Services(**Nest.js, Next.js, Tailwind.css, Creating Node Packages**).
 
 - 🌱 I’m currently learning **Docker, Typescript, GrapQL as well as Cassandra.**
 
